@@ -3,11 +3,11 @@
 ## Code
 - text_detect.py 
 
-  including text recognition, data processing, and data transfer from AWS to Raspberry PI
+  Including text recognition, data processing, and data transfer from AWS to Raspberry PI
 
 - ui.py
 
-  including UI logic, motor control logic, camera control logic and configuration of Raspberry PI
+  Including UI logic, motor control logic, camera control logic and configuration of Raspberry PI
   
   
 ## How to run
