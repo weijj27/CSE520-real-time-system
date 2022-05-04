@@ -14,7 +14,7 @@
 
 - Replace your own AWS certificate in the code in ui.py
 - Replace your own DynamoDB key, S3 Bucket key in text_detect.py
-- Generate your own AWS DynamoDB, IOT, S3 Bucket and Lambda service
+- Generate your own AWS DynamoDB, IoT, S3 Bucket and Lambda service
 - Create table in DynamoDB according to the report
 
 ## Install
